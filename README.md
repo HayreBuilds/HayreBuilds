@@ -67,8 +67,7 @@
 
   <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HayreBuilds&theme=tokyonight&background=0d1117&hide_border=true" width="100%" alt="GitHub Streak"/>
-
+<img src="https://streak-stats.demolab.com?user=HayreBuilds&theme=tokyonight&background=0d1117&fire=79ffad&ring=79ffad&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="175" alt="GitHub Streak"/>
 </div>
 
 ---
