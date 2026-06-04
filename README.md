@@ -63,7 +63,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HayreBuilds&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=79ffad&text_color=ffffff&hide_border=true" height="175" alt="Top Languages"/>
   &nbsp;
-  <img src="https://streak-stats.demolab.com?user=HayreBuilds&theme=tokyonight&background=0d1117&fire=79ffad&ring=79ffad&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="175" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HayreBuilds&theme=tokyonight&background=0d1117&fire=79ffad&ring=79ffad&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="175" alt="GitHub Streak"/>
 
 </div>
 
