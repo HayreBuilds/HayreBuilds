@@ -53,21 +53,17 @@
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HayreBuilds&theme=tokyonight&area=true&hide_border=true" width="100%" alt="Real-time Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HayreBuilds&bg_color=0d1117&color=79ffad&line=79ffad&point=ffffff&area=true&hide_border=true" width="100%" alt="Real-time Activity Graph"/>
 
   <br/><br/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HayreBuilds&theme=tokyonight" width="100%" alt="Profile Summary"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HayreBuilds&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=79ffad&text_color=ffffff&icon_color=79ffad&hide_border=true" width="100%" alt="GitHub Stats"/>
 
   <br/><br/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HayreBuilds&theme=tokyonight" height="175" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HayreBuilds&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=79ffad&text_color=ffffff&hide_border=true" height="175" alt="Top Languages"/>
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HayreBuilds&theme=tokyonight" height="175" alt="Top Languages"/>
-
-  <br/><br/>
-
-  <img src="https://streak-stats.demolab.com?user=HayreBuilds&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="100%" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=HayreBuilds&theme=tokyonight&background=0d1117&fire=79ffad&ring=79ffad&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="175" alt="GitHub Streak"/>
 
 </div>
 
