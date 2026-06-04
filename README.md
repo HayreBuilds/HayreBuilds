@@ -22,46 +22,30 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Flagship AI & Ecosystems
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **[SYNAPSE](https://github.com/HayreBuilds/SYNAPSE)** | AI intelligence platform — RAG, scraping, briefings | Python · LangChain · Django · Vector DB | [🟢 Live](https://synapse-app-six.vercel.app) |
-| **[USHOP-Global](https://github.com/HayreBuilds/USHOP-Global)** | Premium E-commerce Platform with Stripe & Firebase | Next.js 15 · Tailwind · Stripe · Firebase | [🟢 Production](https://github.com/HayreBuilds/USHOP-Global) |
+| **[SYNAPSE](https://github.com/HayreBuilds/SYNAPSE)** | AI intelligence platform — RAG, scraping, briefings | Django · FastAPI · LangChain · pgvector | [🟢 Live](https://synapse-app-six.vercel.app) |
+| **[CollabStudy v2](https://github.com/HayreBuilds/CollabStudy)** | AI-powered real-time academic collaboration | NestJS · Next.js · FastAPI · pgvector | [🟢 Live](https://collab-study-web.vercel.app) |
 | **[Lumina Studio](https://github.com/HayreBuilds/Lumina)** | AI-Integrated Workspace for Modern Developers | Next.js 15 · AI Agents · Prisma · SQLite | [🟢 Alpha](https://github.com/HayreBuilds/Lumina) |
+| **[USHOP-Global](https://github.com/HayreBuilds/USHOP-Global)** | Premium E-commerce Architecture (RedStore Enterprise) | Next.js 15 · Tailwind · Stripe · Firebase | [🟢 Production](https://github.com/HayreBuilds/USHOP-Global) |
 | **[EduPulse](https://github.com/HayreBuilds/EduPulse)** | Enterprise Academic Intelligence & Sentiment Engine | React 19 · Firebase AI · 4-Tier RBAC | [🟢 Production](https://github.com/HayreBuilds/EduPulse) |
 | **[NexusCloud](https://github.com/HayreBuilds/NexusCloud)** | High-Performance Browser-Based IDE Engine | Monaco Editor · Next.js · Vite · Zustand | [🟢 Beta](https://github.com/HayreBuilds/NexusCloud) |
-| **[ZenVault](https://github.com/HayreBuilds/ZenVault)** | Secure Java-Based Enterprise Banking System | Java 17 · MySQL · Swing · Maven | [🟢 Stable](https://github.com/HayreBuilds/ZenVault) |
-| **[Labyrinth-OS](https://github.com/HayreBuilds/Labyrinth-OS)** | Advanced Maze Generation & Pathfinding Visualizer | Python · Algorithms · DS · Visualization | [🟢 Complete](https://github.com/HayreBuilds/Labyrinth-OS) |
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Specialist Tools & Intelligence
 
-**Backend**
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Frontend**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**AI / ML**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**Database & DevOps**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **[OAuthSentry](https://github.com/HayreBuilds/oauthsentry)** | AI security agent — OAuth & npm threat scanning | Next.js · TypeScript · Vercel AI SDK | [🟢 Live](https://oauthsentry.vercel.app) |
+| **[ZenVault](https://github.com/HayreBuilds/ZenVault)** | Secure Java-Based Enterprise Banking System | Java 17 · MySQL · Swing · Maven | [🟢 Stable](https://github.com/HayreBuilds/ZenVault) |
+| **[Labyrinth-OS](https://github.com/HayreBuilds/Labyrinth-OS)** | Advanced Maze Generation & Pathfinding Visualizer | Python · Algorithms · DS · Visualization | [🟢 Complete](https://github.com/HayreBuilds/Labyrinth-OS) |
+| **[Twitter Sentiment](https://github.com/HayreBuilds/twitter-sentiment-analyzer)** | NLP pipeline — Naive Bayes vs SVM | Python · Scikit-learn · TF-IDF | [🟢 Live](https://twitter-sentiment-analyzer-750.streamlit.app) |
+| **[Sales Intelligence](https://github.com/HayreBuilds/Sales-Data-Analysis)** | Predictive sales analytics dashboard | Python · Pandas · Matplotlib | [🟢 Live](https://sales-data-analysis-750.streamlit.app) |
+| **[Portfolio CMS](https://hayredin.vercel.app)** | Production Headless CMS with RLS + RBAC | Next.js · Supabase · Framer Motion | [🟢 Live](https://hayredin.vercel.app) |
+| **[CollabStudy v1](https://github.com/HayreBuilds/collabstudy-old)** | Real-time study platform with WebSockets | Django · Django Channels · Railway | [🟢 Live](https://collabstudy750.onrender.com) |
 
 ---
 
@@ -93,15 +77,15 @@
 
 - 🎓 **Kibur College Scholarship** — Top 10% at Addis Ababa University
 - 📜 **9 Certifications** — DeepLearning.AI · IBM · Google · Udacity
-- 🚀 **8+ Production Projects** — All self-built, zero mentorship
+- 🚀 **12+ Production Projects** — All self-built, zero mentorship
 - 🌍 **Live Deployments** — Vercel · Render · Streamlit · globally accessible
 
 ---
 
 ## 🔭 Currently Working On
 
-> **SYNAPSE** — Adding autonomous research agents and expanding the knowledge graph
-> **AcademicPulse** — Launching at AAU with real student users
+> **SYNAPSE** — Scaling multi-agent fleets for autonomous technology research
+> **AcademicPulse** — Deploying enterprise feedback intelligence at Addis Ababa University
 
 ---
 
