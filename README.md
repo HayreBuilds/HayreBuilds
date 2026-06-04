@@ -65,21 +65,25 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Real-Time Engineering Metrics
 
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HayreBuilds&theme=tokyonight" width="700" alt="Profile Summary"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HayreBuilds&theme=tokyonight&area=true&hide_border=true" width="100%" alt="Real-time Activity Graph"/>
 
   <br/><br/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HayreBuilds&theme=tokyonight" height="165" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HayreBuilds&theme=tokyonight" width="100%" alt="Profile Summary"/>
+
+  <br/><br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HayreBuilds&theme=tokyonight" height="175" alt="Stats"/>
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HayreBuilds&theme=tokyonight" height="165" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HayreBuilds&theme=tokyonight" height="175" alt="Top Languages"/>
 
   <br/><br/>
 
-  <img src="https://streak-stats.demolab.com?user=HayreBuilds&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="700" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=HayreBuilds&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="100%" alt="GitHub Streak"/>
 
 </div>
 
