@@ -38,7 +38,7 @@
 ## 🛠️ Specialist Tools & Intelligence
 
 | Project | Description | Tech Stack | Status |
-| :--- | :--- | : :--- | :--- |
+| :--- | :--- | :--- | :--- |
 | **[OAuthSentry](https://github.com/HayreBuilds/oauthsentry)** | AI security agent — OAuth & npm threat scanning | Next.js · TypeScript · Vercel AI SDK | [🟢 Live](https://oauthsentry.vercel.app) |
 | **[ZenVault](https://github.com/HayreBuilds/ZenVault)** | Secure Java-Based Enterprise Banking System | Java 17 · MySQL · Swing · Maven | [🟢 Stable](https://github.com/HayreBuilds/ZenVault) |
 | **[Labyrinth-OS](https://github.com/HayreBuilds/Labyrinth-OS)** | Advanced Maze Generation & Pathfinding Visualizer | Python · Algorithms · DS · Visualization | [🟢 Complete](https://github.com/HayreBuilds/Labyrinth-OS) |
@@ -61,13 +61,13 @@
 
   <br/><br/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HayreBuilds&theme=tokyonight" height="175" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HayreBuilds&theme=tokyonight" height="175" alt="Stats"/>
   &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HayreBuilds&theme=tokyonight" height="175" alt="Top Languages"/>
 
   <br/><br/>
 
-  <img src="https://streak-stats.demolab.com?user=HayreBuilds&theme=tokyonight&background=0d1117&hide_border=true" width="100%" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HayreBuilds&theme=tokyonight&background=0d1117&hide_border=true" width="100%" alt="GitHub Streak"/>
 
 </div>
 
