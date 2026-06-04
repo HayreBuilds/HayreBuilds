@@ -64,17 +64,19 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HayreKhan750&theme=tokyonight" width="700" alt="Profile Summary"/>
 
-  <br/>
+  <br/><br/>
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HayreKhan750&theme=tokyonight" height="165" alt="Stats"/>
   &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HayreKhan750&theme=tokyonight" height="165" alt="Top Languages"/>
 
-  <br/>
+  <br/><br/>
 
   <img src="https://streak-stats.demolab.com?user=HayreKhan750&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="700" alt="GitHub Streak"/>
+
 </div>
 
 ---
